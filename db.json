@@ -1,0 +1,128 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "Intrduction to web design",
+      "description": "Learn the basics of HTML $ CSS",
+      "imageAddress": "https://img.freepik.com/free-photo/web-design-concept-with-drawings_1134-77.jpg?t=st=1718633238~exp=1718636838~hmac=4566a0047ce891052331ba36f0017302e193e18a830c431dbf77684d9dd6020c&w=1380"
+    },
+    {
+      "id": "2",
+      "title": "Introduction to HTML",
+      "description": "Learn the basics of Python programming",
+      "imageAddress": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?t=st=1718648194~exp=1718651794~hmac=666334d4b9aaba2818a2129c050e93412c46426cdb1334903f96d38150ea9ef1&w=1380"
+    },
+    {
+      "id": "3",
+      "title": "Intermediate HTML",
+      "description": "Get started with JavaScript programming",
+      "imageAddress": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901786.jpg?w=1380&t=st=1718648768~exp=1718649368~hmac=682d57b35cd093c763ce19139e105f699cea1d5c7dc459dc5d41ff1068db0423"
+    },
+    {
+      "id": "100",
+      "title": "Advanced HTML & CSS",
+      "description": "Dive into advanced machine learning concepts",
+      "imageAddress": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901770.jpg?t=st=1718648327~exp=1718651927~hmac=d02a8dbfb836bc7f7bca8dda210e513ccbc0fe3c4bd9b021b09ed88eead9354e&w=996"
+    },
+    {
+      "id": "101",
+      "title": "Javascript fundamentals",
+      "description": "Improve your problem-solving skills with data structures and algorithms",
+      "imageAddress": "https://img.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_335657-986.jpg?t=st=1718633942~exp=1718637542~hmac=0e62fde8790a1fb500f4e9239add8e7e3c337106733943c1bd0f540247a21cb4&w=1380"
+    },
+    {
+      "id": "102",
+      "title": "HTML/CSS/JS Crash course",
+      "description": "Learn to build complete web applications with full-stack development",
+      "imageAddress": "https://img.freepik.com/free-photo/person-front-computer-working-html_23-2150040428.jpg?t=st=1718721775~exp=1718725375~hmac=755c7862d05b4282c69c5032f618a8974e140db2a22a9cc3400d85324e3e8e48&w=1380"
+    },
+    {
+      "id": "107",
+      "title": "Data Structures and Algorithms",
+      "description": "Improve your problem-solving skills with data structures and algorithms",
+      "imageAddress": "https://img.freepik.com/free-photo/programming-background-concept_23-2150170124.jpg?t=st=1718647795~exp=1718651395~hmac=23350e04f5a1b604634b87cbf09b9825717be3fb6fd373c3aa53fc96509c4523&w=1380"
+    },
+    {
+      "id": "109",
+      "title": "Full-Stack Development",
+      "description": "Learn to build complete web applications with full-stack development",
+      "imageAddress": "https://img.freepik.com/free-vector/hand-drawn-flat-design-api-illustration_23-2149365021.jpg?t=st=1718648033~exp=1718651633~hmac=f0a32933a06cdd29a93bf5b28a08258fadca3c613709e677b45d5fdb90a1f20f&w=826"
+    },
+    {
+      "id": "432c",
+      "Title": "fff",
+      "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+    },
+    {
+      "id": "f83f",
+      "Title": "ff",
+      "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+    }
+  ],
+  "novels": [
+    {
+      "id": "1",
+      "Title": "To Kill a Mockingbird",
+      "description": "Scout Finch, a young girl, learns about racial injustice and moral growth in the Deep South during the 1930s, guided by her father Atticus.",
+      "image": "https://img.freepik.com/free-photo/portrait-friendly-woman-offering-stack-textbooks-useful-school_482257-84882.jpg?t=st=1718700221~exp=1718703821~hmac=903a63267ba8d8e11020e6ebb945e62fda124ffe6d4584cfc22f856fa7fcafeb&w=1380"
+    },
+    {
+      "id": "100",
+      "Title": "The Hitchhiker's",
+      "description": "Arthur Dent embarks on a surreal journey through the universe with eccentric companions, discovering the absurdities of life after Earth's unexpected destruction.",
+      "image": "https://img.freepik.com/free-photo/man-reading_1048-1632.jpg?t=st=1718700338~exp=1718703938~hmac=9baa3a6ee97545dbec040c8added23136225784d8944c0f0c971e31a92129052&w=900"
+    },
+    {
+      "id": "5007",
+      "Title": "The early bird",
+      "description": "Scout Finch, a young girl, learns about racial injustice and moral growth in the Deep South during the 1930s, guided by her father Atticus",
+      "image": "https://img.freepik.com/free-photo/young-student-learning-library_23-2149215450.jpg?t=st=1718701165~exp=1718704765~hmac=7ea8c5659d20593c61b21d018b43afa333a01cede9f26549072247e13d7772c7&w=1380"
+    }
+  ],
+  "kcse_revision_materials": [
+    {
+      "id": "1",
+      "title": "Mathematics Revision Notes",
+      "subject": "Mathematics",
+      "topic": "Algebra",
+      "imageAddress": "https://example.com/math.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Biology Revision Questions",
+      "subject": "Biology",
+      "topic": "Cell Biology",
+      "imageAddress": "https://example.com/biology.jpg"
+    },
+    {
+      "id": "3",
+      "title": "English Literature Study Guide",
+      "subject": "English",
+      "topic": "Literary Analysis",
+      "imageAddress": "https://example.com/literature.jpg"
+    },
+    {
+      "id": "100",
+      "title": "Physics Past Papers",
+      "subject": "Physics",
+      "topic": "Mechanics",
+      "imageAddress": "https://example.com/physics.jpg"
+    },
+    {
+      "id": "101",
+      "title": "Chemistry Revision Notes",
+      "subject": "Chemistry",
+      "topic": "Organic Chemistry",
+      "imageAddress": "https://example.com/chemistry.jpg"
+    },
+    {
+      "id": "102",
+      "title": "History Revision Questions",
+      "subject": "History",
+      "topic": "World War II",
+      "imageAddress": "https://example.com/history.jpg"
+    }
+  ]
+}

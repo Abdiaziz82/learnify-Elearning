@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Tiny5&display=swap" rel="stylesheet">
+
+</head>
+<style>
+    body {
+        background-color: #520D44;
+    }
+.cards {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    gap: 15px;
+   
+  }
+  
+  .cards .red {
+    background-color: #f43f5e;
+   
+  }
+  
+  .cards .blue {
+    background-color: #3b82f6;
+  }
+  
+  .cards .green {
+    background-color: #22c55e;
+  }
+  
+  .cards .card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    height: 400px;
+    width: 480px;
+    margin-top: 80px;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    transition: 400ms;
+  }
+  
+  
+  .cards .card p.tip {
+    font-size: 2.5em;
+    font-weight: 700;
+  }
+  
+  .cards .card p.second-text {
+    font-size: .9em;
+    color: black;
+  }
+  
+  .cards .card:hover {
+    transform: scale(1.1, 1.1);
+  }
+  
+  .cards:hover > .card:not(:hover) {
+    filter: blur(10px);
+    transform: scale(0.9, 0.9);
+  }
+  .welc {
+    font-size: 3rem;
+padding-left: 150px;
+
+font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: white;
+
+
+  }
+  .fy {
+    font-family: "Tiny5", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: red;
+  }
+  .dive {
+    font-size: 1.7rem;
+    padding-left: 120px;
+    font-family: "Share Tech Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+   color: aliceblue;
+    
+  }
+</style>
+<body>
+    <section>
+    <div>
+        <h1 class="welc">Welcome to <span class="fy">Learnify!</span></h1>
+        <p class="dive">Dive in, explore, and let's embark on this exciting learning journey together.<br> Dive in, explore, and let's embark on this exciting learning journey together.<br> Happy learning!</p>
+    </div>
+  <div class="cards">
+    <div class="card red">
+        <p class="tip learn">Learnify e-learning Platform</p>
+        <p class="second-text">Learnify is an innovative e-learning platform designed to provide high-quality, accessible, and engaging educational content to learners of all ages and backgrounds. By leveraging the latest technology and educational methodologies, Learnify aims to bridge the gap between traditional education and the digital world, offering a wide range of courses, interactive tutorials, and personalized learning experiences. Whether you're a student looking to supplement your studies, a professional seeking to advance your career, or a lifelong learner exploring new interests, Learnify has something to offer everyone.</p>
+    </div>
+    <div class="card blue">
+        <p class="tip">Our Mission</p>
+        <p class="second-text">Our mission at Learnify is to democratize education by providing accessible, affordable, and high-quality learning opportunities for everyone, everywhere. We strive to empower individuals with the knowledge and skills they need to achieve their personal and professional goals. By offering a diverse range of courses tailored to various learning styles and levels, we aim to foster an inclusive and supportive learning environment. Through continuous innovation and a commitment to excellence, we seek to inspire curiosity, promote lifelong learning, and contribute to the advancement of education on a global scale.</p>
+    </div>
+    <div class="card green">
+        <p class="tip">Our Vission</p>
+        <p class="second-text">Our vision is to become a global leader in online education, transforming the way people learn and grow. We envision a world where education is accessible to all, regardless of geographical location, socioeconomic status, or prior educational background. By embracing cutting-edge technology, collaborative learning experiences, and a learner-centric approach, we aim to create a platform where knowledge is shared freely and educational barriers are dismantled. Our ultimate goal is to cultivate a community of empowered learners who are equipped with the skills and knowledge to thrive in an ever-evolving world, thereby fostering innovation, personal growth, and societal progress.</p>
+    </div>
+</div>
+    </section>
+</body>
+</html>

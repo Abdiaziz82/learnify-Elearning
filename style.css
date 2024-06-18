@@ -1,26 +1,41 @@
 #logo{
     padding-left: 25px;
     color: #000;
+    
 
+}
+ol a {
+  text-decoration: none;
+  color: #000;
+  
 }
 
 .sec1 {
     height: 100vh;
     
-   
-    background: linear-gradient(#D0D3D4 5%, #1B4F72 70% );
+   background-color: #104282;
+    /* background: linear-gradient(blue, #1B4F72 70% ); */
     /* background-image: url(https://visme.co/blog/wp-content/uploads/2016/09/website-color-schemes-header-wide.jpg); */
    
     background-repeat: no-repeat;
 }
+#movies{
+  height: 130vh;
+  background-color: rgb(161, 127, 255);
+}
+
+
+
+
 header{
     display: flex;
     flex-direction: row;
     padding-top: 30px;
     position: sticky;
    top: 0;
-   background-color:#3498DB ;
-   z-index: 1000;
+   
+    background-color:#72B5F9;
+   z-index: 1000; 
 }
 
 
@@ -104,15 +119,18 @@ bottom: 200px;
 
 }
 .discover {
-  margin-bottom: 50px;
+  
+  color: white;
 
   
 }
 .lenify {
   padding-left: 170px;
-  margin-top: 140px;
-  padding-top: 50rem;
-  color: #0D47A1;
+  
+  font-family: "Tiny5", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  color: #20E59B;
 }
 .im {
   padding-top: 50px;
@@ -132,10 +150,10 @@ bottom: 200px;
 
 }
 .fa-solid{
-  color: #D0D3D4  ;
+  color:#231508 ;
 }
 .fa-graduation-cap{
-  color: #424949 ;
+  color:black ;
 }
 .world {
 padding-left: 300px;
@@ -151,11 +169,14 @@ padding-left: 300px;
   padding-top: 40px;
   font-size: 2em;
  line-height: 2em;
-
+color: #FDF8D2;
   font-weight: 500;
   font-style: normal;
  
 
+}
+.premier {
+  color: #F25832;
 }
 
 .btn-31,
@@ -170,7 +191,7 @@ padding-left: 300px;
 
 .btn-31 {
   -webkit-tap-highlight-color: transparent;
-  -webkit-appearance: button;
+ 
   background-color: #000;
   background-image: none;
   color: #fff;
@@ -182,7 +203,7 @@ padding-left: 300px;
   font-weight: 900;
   line-height: 1.5;
   margin: 0;
-  -webkit-mask-image: -webkit-radial-gradient(#000, #fff);
+ 
   padding: 0;
   padding-left: 90px;
   margin-left: 150px;
@@ -198,7 +219,7 @@ padding-left: 300px;
 
 .btn-31 svg {
   display: block;
-  vertical-align: middle;
+  
 }
 
 .btn-31 [hidden] {
@@ -302,42 +323,7 @@ padding-left: 300px;
 .get:hover{
   background-color: #424949;
 }
-/* .btnR {
-  background: #587EF8;
-  border: none;
-  padding: 10px 20px;
-  display: inline-block;
-  font-size: 15px;
-  font-weight: 600;
-  width: 120px;
-  text-transform:;
-  cursor: pointer;
-  transform: skew(-21deg);
-  margin-left: 60px;
-  padding: 1rem 2rem;
-}
 
-
-.btnR::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  right: 100%;
-  left: 0;
-  background: rgb(20, 20, 20);
-  opacity: 0;
-  z-index: -1;
-  transition: all 0.5s;
-}
-.btnR:hover{
-  color: #fff;
-}
-.btnR:hover::before{
-  left: 0;
-  right: 0;
-  opacity: 1;
-} */
 .pics {
   width: 800px;
 }
@@ -353,16 +339,123 @@ padding-left: 300px;
  
  
 }
-.Parag {
 
-}
 .captain{
-  color: #000;
+  color: #231508;
 }
 
-/* #section2 {
-  height: 50vh;
-} */
+.nos{
+  color: #FFDE84;
+  font-family: "Acme", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+.stud{
+  font-family: "Permanent Marker", cursive;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.sec3 {
+  height: 100vh;
+  background-color: wheat;
+  padding-top: 20px;
+ 
+
+}
+.cardi{
+  display: flex;
+  gap: 6rem;
+justify-content: space-around;
+
+  
+ 
+}
+.moja {
+ margin-left: 170px;
+ margin-top: 70px;
+}
+.plat {
+  font-family: "Jaro", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  padding-left: 190px;
+  color: wheat;
+}
+.engag{
+  color: blue;
+ 
+
+  font-style: normal;
 
 
-
+}
+.mbili{
+  margin-right: 50px;
+  margin-top: 70px;
+  
+}
+.happ{
+  font-family: "Tiny5", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  padding-left: 600px;
+  font-size: 3rem;
+  padding-top: 40px;
+  color: white;
+ 
+}
+.tatu {
+  margin-right: 190px;
+  margin-top: 70px;
+}
+#coursesec {
+  height: 200vh;
+  background-color: #F6E9D0;
+}
+.let  {
+  
+  font-family: "Jacquard 12", system-ui;
+  font-weight: 600;
+  font-style: normal;
+}
+.prog {
+  font-family: "Cinzel", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #30206D;
+}
+.free {
+  font-family: "Jacquard 12", system-ui;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 30px;
+}
+.lib {
+  font-family: "Mate SC", serif;
+  font-weight: 600;
+  font-style: normal;
+  padding-left: 20px;
+}
+.revi {
+  font-family: "Permanent Marker", cursive;
+  font-weight: 600;
+  font-style: normal;
+}
+.comp {
+  font-family: "Pacifico", cursive;
+  font-weight: 500;
+  font-style: normal;
+}
+.codingg {
+  font-family: "Acme", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.techno{
+  font-family: "Cardo", serif;
+  font-weight: 400;
+  font-style: normal;
+}
