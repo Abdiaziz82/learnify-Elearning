@@ -51,6 +51,7 @@ function addMovies(movie){
         .card {
             position: relative;
             width: 350px;
+            height:250px;
             aspect-ratio: 16/9;
             background-color: #f2f2f2;
             border-radius: 10px;
@@ -88,7 +89,7 @@ function addMovies(movie){
             height: 100%;
             padding: 20px;
             box-sizing: border-box;
-            background-color: #42A9DF;
+            background-color: #F3F218;
             transform: rotateX(-90deg);
             transform-origin: bottom;
             transition: all 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
@@ -114,14 +115,15 @@ function addMovies(movie){
             font-size: 0.9rem;
             color: #1B3561;
             line-height: 1.4;
-              font-family: "Pacifico", cursive;
-  font-weight: 400;
+    font-family: "Josefin Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
   font-style: normal;
         }
 
         .card__button {
             padding: 10px;
-          
+       
             background: #777;
             border: none;
             color: white;
@@ -138,6 +140,7 @@ function addMovies(movie){
             padding: 9px;
             padding-left: 20px;
             padding-right: 20px;
+          
         }
     </style>
 

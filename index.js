@@ -58,7 +58,7 @@ function addMovies(movie){
   .font22{
     font-family: "Josefin Slab", serif;
   font-optical-sizing: auto;
-  font-weight: 400;
+  font-weight: 500;
   font-style: normal;
   color:black;
   }

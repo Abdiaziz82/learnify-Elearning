@@ -65,6 +65,12 @@
       "title": "HTML/CSS crash course",
       "description": "learn HTML/CSS overally",
       "imageAddress": "https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8173.jpg?t=st=1718821535~exp=1718825135~hmac=b2354d78c4027ed9f098ec1e7fadb2ddc13a1cf97968beb99f4ba112e8051574&w=826"
+    },
+    {
+      "id": "47a7",
+      "title": "git and github",
+      "description": "learn the basics of git and github setup",
+      "imageAddress": "https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775234_1280.png"
     }
   ],
   "novels": [
@@ -79,6 +85,12 @@
       "Title": "novel",
       "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
       "image": "https://img.freepik.com/free-vector/realistic-book-lover-composition-with-stack-colorful-books-with-eyeglasses-home-plants-tea-cup-vector-illustration_1284-77312.jpg?t=st=1718781087~exp=1718784687~hmac=f5502f2abc80400a0dc3375c0662ef9529b605ce0fb24580a2449afcdff5f171&w=900"
+    },
+    {
+      "id": "9242",
+      "Title": "The old Man",
+      "description": "Under the dappled shade of trees, an elderly man wearing a beret leans towards a stack of books, his gaze fixed on the titles before him. Beside him, a young girl, engrossed in her task, sifts through the collection, her fingers brushing against the spines of countless stories waiting to be discovered. ",
+      "image": "https://images.stockcake.com/public/6/0/7/607584b8-5191-4221-a1e6-c586160f7a6f_large/book-market-browsing-stockcake.jpg"
     }
   ],
   "kcse_revision_materials": [
