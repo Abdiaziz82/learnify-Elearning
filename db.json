@@ -49,25 +49,25 @@
       "imageAddress": "https://img.freepik.com/free-vector/hand-drawn-flat-design-api-illustration_23-2149365021.jpg?t=st=1718648033~exp=1718651633~hmac=f0a32933a06cdd29a93bf5b28a08258fadca3c613709e677b45d5fdb90a1f20f&w=826"
     },
     {
-      "id": "432c",
-      "Title": "fff",
-      "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
-      "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+      "id": "161a",
+      "title": "programing fundamentals",
+      "description": "Learn programming fundamentals, coding skills, and build real-world applications",
+      "imageAddress": "https://img.freepik.com/free-vector/day-programmer-poster_1308-114405.jpg?t=st=1718780510~exp=1718784110~hmac=110db50d3507c1e6454d1827aad4f510ee6e26c83b258aa76a21efb5105be276&w=996"
     },
     {
-      "id": "f83f",
-      "Title": "ff",
-      "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
-      "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+      "id": "c39a",
+      "title": "Machine learning",
+      "description": "learn machine learning with python",
+      "imageAddress": "https://img.freepik.com/free-photo/ordinary-human-job-performed-by-anthropomorphic-robot_23-2151008359.jpg?t=st=1718821297~exp=1718824897~hmac=60e095330bb3acf5c2254ff319c3ce3b996fe59962468e7b578f7cad909cb3ec&w=996"
+    },
+    {
+      "id": "2053",
+      "title": "HTML/CSS crash course",
+      "description": "learn HTML/CSS overally",
+      "imageAddress": "https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8173.jpg?t=st=1718821535~exp=1718825135~hmac=b2354d78c4027ed9f098ec1e7fadb2ddc13a1cf97968beb99f4ba112e8051574&w=826"
     }
   ],
   "novels": [
-    {
-      "id": "1",
-      "Title": "To Kill a Mockingbird",
-      "description": "Scout Finch, a young girl, learns about racial injustice and moral growth in the Deep South during the 1930s, guided by her father Atticus.",
-      "image": "https://img.freepik.com/free-photo/portrait-friendly-woman-offering-stack-textbooks-useful-school_482257-84882.jpg?t=st=1718700221~exp=1718703821~hmac=903a63267ba8d8e11020e6ebb945e62fda124ffe6d4584cfc22f856fa7fcafeb&w=1380"
-    },
     {
       "id": "100",
       "Title": "The Hitchhiker's",
@@ -75,10 +75,10 @@
       "image": "https://img.freepik.com/free-photo/man-reading_1048-1632.jpg?t=st=1718700338~exp=1718703938~hmac=9baa3a6ee97545dbec040c8added23136225784d8944c0f0c971e31a92129052&w=900"
     },
     {
-      "id": "5007",
-      "Title": "The early bird",
-      "description": "Scout Finch, a young girl, learns about racial injustice and moral growth in the Deep South during the 1930s, guided by her father Atticus",
-      "image": "https://img.freepik.com/free-photo/young-student-learning-library_23-2149215450.jpg?t=st=1718701165~exp=1718704765~hmac=7ea8c5659d20593c61b21d018b43afa333a01cede9f26549072247e13d7772c7&w=1380"
+      "id": "31db",
+      "Title": "novel",
+      "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+      "image": "https://img.freepik.com/free-vector/realistic-book-lover-composition-with-stack-colorful-books-with-eyeglasses-home-plants-tea-cup-vector-illustration_1284-77312.jpg?t=st=1718781087~exp=1718784687~hmac=f5502f2abc80400a0dc3375c0662ef9529b605ce0fb24580a2449afcdff5f171&w=900"
     }
   ],
   "kcse_revision_materials": [

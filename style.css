@@ -4,6 +4,23 @@
     
 
 }
+
+/* Example media queries */
+@media (max-width: 768px) {
+  .container {
+      flex-direction: column;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .container {
+      flex-direction: row;
+  }
+}
+
+
+
+
 ol a {
   text-decoration: none;
   color: #000;
@@ -29,6 +46,7 @@ ol a {
 
 header{
     display: flex;
+  
     flex-direction: row;
     padding-top: 30px;
     position: sticky;
@@ -68,8 +86,10 @@ header{
   }
   .container {
     height: 20vh;
+   
   }
   .navbar {
+    
     justify-content: space-around;
     margin-left: 350px;
     display: flex;
@@ -157,6 +177,10 @@ bottom: 200px;
 }
 .world {
 padding-left: 300px;
+font-family: "Acme", sans-serif;
+font-weight: 400;
+font-style: normal;
+color: #EDEDE9;
 
 }
 
@@ -367,13 +391,17 @@ color: #FDF8D2;
   display: flex;
   gap: 6rem;
 justify-content: space-around;
-
-  
  
 }
+
+
 .moja {
  margin-left: 170px;
  margin-top: 70px;
+margin-bottom: 10px;
+}
+.moja:hover{
+  transform: scale(1.05);
 }
 .plat {
   font-family: "Jaro", sans-serif;
@@ -396,6 +424,9 @@ justify-content: space-around;
   margin-top: 70px;
   
 }
+.mbili:hover{
+  transform: scale(1.05);
+}
 .happ{
   font-family: "Tiny5", sans-serif;
   font-weight: 600;
@@ -409,9 +440,15 @@ justify-content: space-around;
 .tatu {
   margin-right: 190px;
   margin-top: 70px;
+ 
 }
+.tatu:hover{
+  transform: scale(1.05);
+}
+
+
 #coursesec {
-  height: 200vh;
+  height: 250vh;
   background-color: #F6E9D0;
 }
 .let  {
@@ -428,25 +465,23 @@ justify-content: space-around;
   color: #30206D;
 }
 .free {
-  font-family: "Jacquard 12", system-ui;
-  font-weight: 600;
+  font-family: "Acme", sans-serif;
+  font-weight: 400;
   font-style: normal;
-  font-size: 30px;
 }
 .lib {
-  font-family: "Mate SC", serif;
-  font-weight: 600;
+  font-family: "Cardo", serif;
+  font-weight: 400;
   font-style: normal;
-  padding-left: 20px;
 }
 .revi {
-  font-family: "Permanent Marker", cursive;
-  font-weight: 600;
+  font-family: "Acme", sans-serif;
+  font-weight: 400;
   font-style: normal;
 }
 .comp {
-  font-family: "Pacifico", cursive;
-  font-weight: 500;
+  font-family: "Cardo", serif;
+  font-weight: 400;
   font-style: normal;
 }
 .codingg {

@@ -48,6 +48,7 @@ function addMovies(movie){
     
     div.innerHTML = `
     <style> 
+    @import url('https://fonts.googleapis.com/css2?family=Playwrite+DE+Grund:wght@100..400&display=swap');
     @import url('https://fonts.googleapis.com/css2?family=Acme&family=Cardo:ital,wght@0,400;0,700;1,400&family=Josefin+Slab:ital,wght@0,100..700;1,100..700&family=Merienda:wght@300..900&family=Pacifico&family=Sedan+SC&display=swap');
 .font {
   font-family: "Sedan SC", serif;
@@ -59,8 +60,14 @@ function addMovies(movie){
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
+  color:black;
   }
-
+.skip {
+  font-family: "Playwrite DE Grund", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
     </style>
     <div class="card "style = "color:#189D37 " >
     <img src="${movie.imageAddress}" height= "280px"  width = "280px" class="card-img-top" alt="...">
@@ -68,18 +75,18 @@ function addMovies(movie){
       <h5 class=" font card-title" style="color:#1D4876;">${movie.title}</h5>
       <p class="font22 card-text">${movie.description}</p>
    
-   <button class="btn bg-info <i class="bi bi-play-circle-fill"></i>skip </button>
-   <button class="btn bg-info <i class="bi bi-play-circle-fill"></i>Get started →</button>
+   <button class=" skip btn bg-info <i class="bi bi-play-circle-fill"></i>skip </button>
+   <button class=" skip btn bg-info <i class="bi bi-play-circle-fill"></i>Get started →</button>
       
     </div>
   </div>`
   row.appendChild(div)
-//  div.querySelector("button").addEventListener("click", function(){
-//   div.remove()
-//   deleteData(movie.id);
+ div.querySelector("button").addEventListener("click", function(){
+  div.remove()
+  deleteData(movie.id);
   
   
-// })
+})
 }
 function deleteData(id){
   fetch(`http://localhost:3000/courses/${id}`,{
