@@ -5,18 +5,7 @@
 
 }
 
-/* Example media queries */
-@media (max-width: 768px) {
-  .container {
-      flex-direction: column;
-  }
-}
 
-@media (min-width: 769px) and (max-width: 1024px) {
-  .container {
-      flex-direction: row;
-  }
-}
 
 
 
@@ -30,7 +19,7 @@ ol a {
 .sec1 {
     height: 100vh;
     
-   background-color: #104282;
+   background-color: #175676;
     /* background: linear-gradient(blue, #1B4F72 70% ); */
     /* background-image: url(https://visme.co/blog/wp-content/uploads/2016/09/website-color-schemes-header-wide.jpg); */
    
@@ -52,7 +41,7 @@ header{
     position: sticky;
    top: 0;
    
-    background-color:#0AB6EA;
+    background-color:#CCE6F4;
    z-index: 1000; 
 }
 
@@ -212,9 +201,7 @@ font-style: normal;
   
   
 }
-.design{
 
-}
 .btn-31,
 .btn-31 *,
 .btn-31 :after,
@@ -475,7 +462,7 @@ margin-bottom: 10px;
 
 
 #coursesec {
-  height: 250vh;
+  height: 190vh;
   background-color: #F6E9D0;
 }
 .let  {
@@ -521,4 +508,21 @@ margin-bottom: 10px;
   font-family: "Cardo", serif;
   font-weight: 400;
   font-style: normal;
+}
+
+.footer {
+  display:flex;
+  justify-content: space-around;
+  padding-top: 5%;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+#foot {
+  height: 30vh;
+  background-color:#333533;
+}
+.fa-brands {
+  font-size: 1.5rem;
 }
