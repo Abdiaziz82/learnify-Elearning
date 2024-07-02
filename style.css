@@ -18,12 +18,27 @@ ol a {
 
 .sec1 {
     height: 100vh;
-    
-   background-color: #175676;
+    background: linear-gradient(-45deg, #001C81, #474554, #2D888B, #5F0147);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+   /* background-color: #175676; */
     /* background: linear-gradient(blue, #1B4F72 70% ); */
     /* background-image: url(https://visme.co/blog/wp-content/uploads/2016/09/website-color-schemes-header-wide.jpg); */
    
-    background-repeat: no-repeat;
+
+
+}
+
+@keyframes gradient {
+  0% {
+      background-position: 0% 50%;
+  }
+  50% {
+      background-position: 100% 50%;
+  }
+  100% {
+      background-position: 0% 50%;
+  }
 }
 #movies{
   height: 130vh;
@@ -141,7 +156,7 @@ bottom: 200px;
   font-family: "Tiny5", sans-serif;
   font-weight: 800;
   font-style: normal;
-  color: #20E59B;
+  color: #02D141;
 }
 .im {
   padding-top: 50px;
@@ -164,7 +179,7 @@ bottom: 200px;
   color:#231508 ;
 }
 .fa-graduation-cap{
-  color:black ;
+  color:#6F0000;
 }
 .world {
 padding-left: 300px;
@@ -195,9 +210,10 @@ font-style: normal;
 
 }
 .premier {
-  color: #F25832;
+  color: black;
   padding-left: 0px;
   font-size: 2.6rem;
+ 
   
   
 }
