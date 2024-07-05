@@ -1,3 +1,6 @@
+
+
+
 //adding eventListener
 document.querySelector("form").addEventListener("submit" , addMovie);
 function addMovie(e) {

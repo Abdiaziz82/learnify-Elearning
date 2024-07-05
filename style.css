@@ -82,8 +82,9 @@ header{
     justify-content: space-around;
   }
   li:hover{
+    text-decoration: underline 6px  #909090;
     
-    opacity: 0.5;
+    
   }
   li:active{
     color: #D0D3D4;
