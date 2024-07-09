@@ -49,12 +49,6 @@
       "imageAddress": "https://img.freepik.com/free-vector/hand-drawn-flat-design-api-illustration_23-2149365021.jpg?t=st=1718648033~exp=1718651633~hmac=f0a32933a06cdd29a93bf5b28a08258fadca3c613709e677b45d5fdb90a1f20f&w=826"
     },
     {
-      "id": "161a",
-      "title": "programing fundamentals",
-      "description": "Learn programming fundamentals, coding skills, and build real-world applications",
-      "imageAddress": "https://img.freepik.com/free-vector/day-programmer-poster_1308-114405.jpg?t=st=1718780510~exp=1718784110~hmac=110db50d3507c1e6454d1827aad4f510ee6e26c83b258aa76a21efb5105be276&w=996"
-    },
-    {
       "id": "2053",
       "title": "HTML/CSS crash course",
       "description": "learn HTML/CSS overally",
@@ -65,6 +59,30 @@
       "title": "git and github",
       "description": "learn the basics of git and github setup",
       "imageAddress": "https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775234_1280.png"
+    },
+    {
+      "id": "ec99",
+      "title": "HTML Tags",
+      "description": "Master HTML Tags",
+      "imageAddress": "https://plus.unsplash.com/premium_photo-1685086785636-2a1a0e5b591f?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "3a0a",
+      "title": "Python",
+      "description": "Get started with Python Programing",
+      "imageAddress": "https://images.unsplash.com/photo-1649180556628-9ba704115795?q=80&w=2062&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "a6fb",
+      "title": "REACT",
+      "description": "Dive into React Js",
+      "imageAddress": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "03a1",
+      "title": "PHP Programing",
+      "description": "Get started with JavaScript programming",
+      "imageAddress": "https://images.unsplash.com/photo-1669023414166-a4cc7c0fe1f5?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
   ],
   "novels": [
