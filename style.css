@@ -1,7 +1,7 @@
 #logo{
     padding-left: 25px;
     color: #000;
-    
+    p
 
 }
 
@@ -18,9 +18,9 @@ ol a {
 
 .sec1 {
     height: 100vh;
-    /* background-color: #354A54; */
+    background-color: #354A54;
     /* background-color: #344B47; */
-    background-color: #263E49;
+    /* background-color: #263E49; */
     /* background: linear-gradient(-45deg, #001C81, #474554, #2D888B, #5F0147);
     background-size: 400% 400%;
     animation: gradient 15s ease infinite; */
@@ -56,7 +56,7 @@ header{
     padding-top: 30px;
     position: sticky;
    top: 0;
-   
+   padding-left: 5%;
     background-color:#CCE6F4;
    z-index: 1000; 
 }
@@ -113,7 +113,8 @@ header{
   color: #000;
   font-family: Roboto, sans-serif;
   border: none;
-  border-radius: 2px;
+  border-radius: 7px;
+  
 
   }
   #btn1:hover {
