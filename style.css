@@ -1,7 +1,6 @@
 #logo{
     padding-left: 25px;
     color: #000;
-    p
 
 }
 
@@ -57,7 +56,7 @@ header{
     position: sticky;
    top: 0;
    padding-left: 5%;
-    background-color:#CCE6F4;
+    background-color:#657B86;
    z-index: 1000; 
 }
 
@@ -118,8 +117,8 @@ header{
 
   }
   #btn1:hover {
-    background-color: #0D47A1;
-    color: #fff;
+    background-color: #A6BDC8;
+    color: white;
     box-shadow: none;
   }
   #cover {
@@ -179,10 +178,10 @@ bottom: 200px;
 
 }
 .fa-solid{
-  color:#231508 ;
+  color:black ;
 }
 .fa-graduation-cap{
-  color:#6F0000;
+  color:white;
 }
 .world {
 padding-left: 300px;
@@ -388,7 +387,7 @@ font-style: normal;
 }
 
 .captain{
-  color: #231508;
+  color: black;
  
 }
 
